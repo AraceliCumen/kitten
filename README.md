@@ -1,9 +1,19 @@
-# Proyecto Positioning 101
+# Proyecto Kitten
 
 ## Objetivos
 
- El objetivo de este proyecto es aplicar os conocimientos sobre positioning
+Crea una página web donde se muestre un paisaje y un gatito diferente a medida que la ventana del navegador se haga más pequeña.
 
- ## Resultados
+## Resultados
 
- ![Proyecto Positioning 101](assets/img/resultados.png "Proyecto Positioning 101")
+### Versión Mobile
+
+![Resultados](assets/img/result3.PNG "Result 1")
+
+### Versión Tablet
+
+![Resultados](assets/img/result2.PNG "Result 2")
+
+### Versión Desktop
+
+![Resultados](assets/img/result1.PNG "Result 3")

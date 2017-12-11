@@ -8,7 +8,6 @@
 }
 
 
-/*-----------------------Estilos Mobile-----------------------*/
 .container-img{
     width: 100%;
     /* para ocupar toda la altura de la pantalla   height: 100vh */
@@ -37,26 +36,28 @@ img{
 }
 
 
+/*-----------------------Estilos Mobile-----------------------*/
 
 
 /*-----------------------Estilos Tablet-----------------------*/
 @media (min-width: 768px){
-  .container-img{
-      background-image: url('../assets/img/dawn.png');
- }
+    .container-img{
+        background-image: url('../assets/img/dawn.png');
+    }
+  
+    img{
+        content: url('../assets/img/kitten-large.png');
+    }
 
- img{
-     content: url('../assets/img/kitten-medium.png');
- }
 }
 
 /*-----------------------Estilos Desktop-----------------------*/
-@media (min-width: 993px){
-  .container-img{
-      background-image: url('../assets/img/sunny-day.jpg');
-  }
-
-  img{
-      content: url('../assets/img/kitten-large.png');
-  }
+@media (min-width: 992px){
+    .container-img{
+        background-image: url('../assets/img/sunny-day.jpg');
+   }
+  
+   img{
+       content: url('../assets/img/kitten-medium.png');
+   }
 } 
